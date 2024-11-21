@@ -17,3 +17,9 @@
     font-family: "Inconsolata";
     font-size: 1.8rem;
 }
+
+.informations p{
+    margin: 0.5rem;
+    
+    font-size: 1.125rem;
+}
