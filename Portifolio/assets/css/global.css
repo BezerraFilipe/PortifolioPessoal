@@ -6,19 +6,25 @@
 body{
     background-color: #4d6e99;
     color: rgb(243, 231, 208);
+    
+
 }
 
-.main{
+.main{  
     margin: 1rem;
     padding: 1rem;
     border: 1px solid white;
     border-radius: 0.5rem;
+    
+
+    
 
 }
 
 @media only screen and (min-width: 1024px) {
 
     .main{
+        width: 100%;
         max-width: 1024px;
         margin: 1rem auto;
     }
